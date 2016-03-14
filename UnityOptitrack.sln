@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F74E00B1-56ED-D19E-A1A2-B8A67CE804CA}") = "UnityOptitrack", "Assembly-CSharp.csproj", "{820B0AE2-F95B-4FDF-4262-7F9B36A05EA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{820B0AE2-F95B-4FDF-4262-7F9B36A05EA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{820B0AE2-F95B-4FDF-4262-7F9B36A05EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{820B0AE2-F95B-4FDF-4262-7F9B36A05EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{820B0AE2-F95B-4FDF-4262-7F9B36A05EA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
